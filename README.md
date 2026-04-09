@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# NovaTech Ignite
 
-TODO: Document your project here
+NovaTech Ignite is the NovaTech Digital Solutions website built with Vite, React, TypeScript, and Tailwind CSS.
