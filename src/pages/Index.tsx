@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import SectionHeading from "@/components/SectionHeading";
 import {
   Globe, ShoppingCart, Bot, Palette, TrendingUp, Building2,
-  Star, ArrowRight, CheckCircle, Users, Briefcase, Zap,
+  Star, ArrowRight, CheckCircle, Users,
   Rocket, Shield, Clock
 } from "lucide-react";
 

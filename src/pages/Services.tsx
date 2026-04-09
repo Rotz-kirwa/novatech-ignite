@@ -7,7 +7,7 @@ import {
   ArrowRight, Monitor, Smartphone, Layout, FileText, CreditCard,
   Package, MessageSquare, Workflow, Users, Paintbrush, Image,
   Megaphone, Search, MapPin, BarChart3, Share2, Lightbulb,
-  Briefcase, Rocket, Home, Plane, Truck, Heart
+  Briefcase, Rocket, Home
 } from "lucide-react";
 
 const categories = [
